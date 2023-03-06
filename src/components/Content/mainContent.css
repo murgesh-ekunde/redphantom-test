@@ -1,0 +1,17 @@
+.mainContent{
+  background: radial-gradient(circle at 10% 20%, rgba(91, 173, 254, 0.46) 0%, rgba(91, 224, 254, 0.46) 47.2%, rgba(170, 254, 235, 0.43) 90%);
+  padding-bottom: 50px;
+}
+
+.content{
+  padding-top: 50px;
+}
+
+.vertical-timeline-element-title{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 50px;
+background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
+border-radius: 10px;
+}

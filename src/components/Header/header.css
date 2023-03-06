@@ -1,0 +1,30 @@
+header{
+    padding-top: 25px;
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    height: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+
+nav a { 
+    color: white;
+    text-decoration: none;
+}
+
+.left a{
+   font-size: large;
+   font-weight: 500; 
+}
+
+.right a {
+    padding-left: 20px;
+}
+
+.right a:hover{
+    color:rgb(119, 159, 160)
+ }
